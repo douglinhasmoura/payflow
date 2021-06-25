@@ -1,16 +1,31 @@
-# payflow
+# Payflow
 
-A new Flutter project.
+Organize seus boletos em qualquer lugar.
 
-## Getting Started
+Projeto de estudo desenvolvido em aula na NLW pela [Rocketseat](https://rocketseat.com.br/ "Rocketseat").
 
-This project is a starting point for a Flutter application.
+## 📝 Projeto
 
-A few resources to get you started if this is your first Flutter project:
+Já pensou em quantos boletos tem que pagar por mês? 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+As vezes chega boleto que nem sabemos de onde vem. 
+O Payflow vem para ajudar você se organizar com os boletos que chega.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Tecnologias
+- [Flutter](https://flutter.dev "Flutter")
+
+
+## 🖥 Layout
+
+![image](https://user-images.githubusercontent.com/15111317/122855430-a0b07b00-d2eb-11eb-87fb-096a76c046d1.png)
+
+## ℹ Informação
+
+- Aplicativo desenvolvido para iPhone e para Android.
+- Login Social com o Google.
+- Escaneador de código de barras pela câmera.
+- Cadastro de código de barras.
+- Extrato de boletos pagos.
+- Homepage com boletos a vencer.
+
+End
