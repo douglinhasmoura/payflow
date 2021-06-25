@@ -5,7 +5,7 @@ import 'package:payflow/shared/themes/appcolors.dart';
 
 class SocialButton extends StatelessWidget {
   final VoidCallback onTap;
-  const SocialButton({Key key, required this.onTap}) : super(key: key);
+  const SocialButton({Key key, this.onTap}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
