@@ -16,16 +16,19 @@ O Payflow vem para ajudar você se organizar com os boletos que chega.
 
 
 ## 🖥 Layout
+![Capa](https://user-images.githubusercontent.com/15111317/123481049-9affb180-d5d9-11eb-9ca9-2d3708e5ac79.png)
 
-![image](https://user-images.githubusercontent.com/15111317/122855430-a0b07b00-d2eb-11eb-87fb-096a76c046d1.png)
 
-## ℹ Informação
+## ⁉ O que já tem disponível?
 
-- Aplicativo desenvolvido para iPhone e para Android.
-- Login Social com o Google.
-- Escaneador de código de barras pela câmera.
-- Cadastro de código de barras.
-- Extrato de boletos pagos.
-- Homepage com boletos a vencer.
+- [x] Login Screen
+- [x] Social Button Google
+- [x] Home Screen
+- [x] Navegação entre telas
+- [ ] Home Screen com os boletos cadastros
+- [ ] Cadastro de boletos
+- [ ] Leitura de boleto
+- [ ] Identificação de boletos.
+- [ ] Extrato Screen
+- [ ] Confirmação de boleto pago.
 
-End
